@@ -1,0 +1,137 @@
+
+body{
+    background: url(image/Logo-Ford.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.encab{
+    text-align: right;
+      margin-top: 50px;  
+  }
+
+  .tex{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  
+  
+  .docum{
+     display: flex;
+    color: white;
+    text-align:justify;  
+  
+  }
+    
+.imghenry{
+  width: 250px;
+  margin-right: 25px;
+}
+  .encab1{
+    text-align: right;
+      margin-top: 50px;  
+  }
+
+  .tex1{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+  }
+
+  .encab2{
+    text-align: right;
+      margin-top: 50px;  
+  }
+
+  .tex2{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+  }
+
+  .historia{
+    color: white;
+    text-align: justify;
+    margin-right:  400px;
+  margin-top: 80px;
+ }
+
+ .list{
+  color: white;
+  text-decoration: none;
+ }
+ .Hist{
+  color: white;
+  text-decoration: none;
+ }
+
+ .encab3{
+  text-align: right;
+    margin-top: 50px;  
+}
+
+.tex3{
+  color: white;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+.ModeloT{
+  color: white;
+  margin-top: 40px;
+  text-align: justify;
+}
+
+.modT{
+  text-align: center;
+  color: white;
+}
+
+.carros{
+  text-align: center;
+  color: white;
+}
+
+
+
+.ImgmodlT{
+  width: 200px;
+  height: 200px;
+  margin-left: 25px;
+
+}
+
+.Evologo{
+  text-align: center;
+  color: white;
+}
+
+.Histf{
+  color: white;
+  text-align: center;
+}
+
+.logos{
+  color: white;
+}
+
+.imglg{
+display: flex;
+
+}
+
+.logo1{
+  margin:25px;
+  width: 150px;
+ height: 150px;
+}
+
+.Evol2{
+  display: flex;
+}
+
+
+ 
+  
+  
+    
+
